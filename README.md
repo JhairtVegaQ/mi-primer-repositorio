@@ -1,2 +1,2 @@
-# mi-primer-repositorio
+# mi-primer-readmi
 Mi primer repositorio en git hub 
